@@ -38,6 +38,7 @@ export default function Home() {
             "Blockchain Developer",
             "Full-Stack Developer",
             "Mobile App Developer",
+            "AI/ML Developer"
           ]}
           typeSpeed={60}
           backSpeed={40}

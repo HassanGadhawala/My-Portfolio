@@ -1,4 +1,4 @@
-# 🌟 MUHAMMAD HASSAN GADHAWALA - PORTFOLIO
+# 🌟 MUHAMMADHASSAN GADHAWALA - PORTFOLIO
 
 ## 🚀 Project Overview
 This is my **personal developer portfolio website** built using:
@@ -23,17 +23,17 @@ It also includes **social links, a contact section, and smooth animations.**
 portfolio/
 │
 ├── public/
-│   ├── Portfolio Website Logo.png    # Website favicon/logo
-│   └── index.html                    # Main HTML template
+│   └── Portfolio Website Logo.png        # Website favicon/logo
 │
 ├── src/
-│   ├── components/                   # React components (Navbar, Home, etc.)
-│   ├── assets/                       # Images or static assets
-│   ├── App.jsx                       # Main app structure
-│   ├── main.jsx                      # Entry point
-│   └── index.css                     # Tailwind and global styles
+│   ├── components/                       # React components (Navbar, Home, etc.)
+│   ├── assets/                           # Images or static assets
+│   ├── App.jsx                           # Main app structure
+│   ├── main.jsx                          # Entry point
+│   └── index.css                         # Tailwind and global styles
 │
-└── README.md                         # Project documentation
+├── index.html                            # Main HTML template
+└── README.md                             # Project documentation
 ```
 
 ---
@@ -42,7 +42,7 @@ portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/HassanGadhawala/My-Portfolio.git
    ```
 
 2. **Navigate into the project directory**
@@ -110,7 +110,7 @@ npm run preview
 
 ## 📞 Contact
 
-**👤 Muhammad Hassan Gadhawala**  
+**👤 MuhammadHassan Gadhawala**  
 📧 [gadhawalahassan@gmail.com](mailto:gadhawalahassan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadhassan-gadhawala-2720b4202/)  
 💻 [GitHub](https://github.com/HassanGadhawala)
